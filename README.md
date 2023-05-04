@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "yehiibhii"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Disrupt yourself or not!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### La siguiente extensión esta basada en los colores oficiales de Juanito Veneno Estudio
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<br>
 
-**Enjoy!**
+![juanito veneno estudio](https://scontent.fmex1-2.fna.fbcdn.net/v/t39.30808-6/284531177_2399675343519945_2829956688198179564_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=UjIeumoqeOIAX9TD9fu&_nc_ht=scontent.fmex1-2.fna&oh=00_AfAUzUp3FY5usR84wAzTvWF0rvsyaM9EfAb3GTUcPCVEEQ&oe=6459A8AB)
+
+<br>
+en la imagen esta combinada con vibrancy extention
+que le da un efecto de blur.
