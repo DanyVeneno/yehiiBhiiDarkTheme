@@ -1,34 +1,32 @@
 {
-    "name": "yehiibhii",
-    "displayName": "yehiiBhiiStudio",
-    "description": "newDarkYehiiBhiiStudio",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "yehiiBhiiDarkEstudio",
-                "uiTheme": "vs-dark",
-                "path": "./themes/yehiiBhiiDarkEstudio-color-theme.json"
-            }
-        ]
-    },
-    "icon":"icons/yehiibhii.png",
-    "author": {
-        "name": "Daniel Vallejo",
-        "email": "dannyveneno@proton.me",
-        "url": "https://danyveneno.github.io/tarjetadepresentacion/"
-    },
-    "repository": {
-        "url": "https://github.com/DanyVeneno/yehiiBhiiDarkTheme.git",
-        "type": "git"
-    },
-    "publisher": "yehiibhiiEstudio"
-
+  "name": "yehiibhii",
+  "displayName": "yehiiBhiiStudio",
+  "description": "newDarkYehiiBhiiStudio",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yehiiBhiiDarkEstudio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yehiiBhiiDarkEstudio-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/yehiibhii.png",
+  "author": {
+    "name": "Daniel Vallejo",
+    "email": "dannyveneno@proton.me",
+    "url": "https://danyveneno.github.io/tarjetadepresentacion/"
+  },
+  "repository": {
+    "url": "https://github.com/DanyVeneno/yehiiBhiiDarkTheme.git",
+    "type": "git"
+  },
+  "publisher": "yehiibhiiEstudio"
 }
-
